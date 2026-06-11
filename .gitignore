@@ -1,0 +1,7 @@
+sam3/
+.ipynb_checkpoints/
+arcadia/
+yolov8s-seg.pt
+yolov8s.pt
+yolov8m.pt
+grand_tour_dataset/
